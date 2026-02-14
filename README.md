@@ -1,1 +1,141 @@
-IyBQZXJzb25hbCBWb2ljZSBUZXh0LXRvLVNwZWVjaAoKUHl0aG9uIHNjcmlwdCB0aGF0IHJlYWRzIHRleHQgZnJvbSBhIE1hcmtkb3duIGZpbGUgYW5kIGdlbmVyYXRlcyBhdWRpbyB1c2luZyBbQXp1cmUgUGVyc29uYWwgVm9pY2VdKGh0dHBzOi8vbGVhcm4ubWljcm9zb2Z0LmNvbS9henVyZS9haS1zZXJ2aWNlcy9zcGVlY2gtc2VydmljZS9wZXJzb25hbC12b2ljZS1vdmVydmlldykgVFRTLgoKIyMgRmVhdHVyZXMKCi0g8J+TneKAiyBSZWFkcyB0ZXh0IGZyb20gYW55IE1hcmtkb3duIGZpbGUgKHN0cmlwcyBmb3JtYXR0aW5nIGF1dG9tYXRpY2FsbHkpCi0g8J+OpOKAiyBNdWx0aXBsZSBzcGVlY2ggc3R5bGVzOiAqKkNoZWVyZnVsKiosICoqRXhjaXRlZCoqLCAqKkVudGh1c2lhc3RpYyoqLCAqKkZyaWVuZGx5KiosIGFuZCAqKlByb21wdCoqIChuZXV0cmFsKQotIPCfjLDigIsgTXVsdGktbGFuZ3VhZ2Ugc3VwcG9ydCAoZW4tVVMsIGVzLUVTLCBkZS1ERSwgZnItRlIsIGphLUpQLCBldGMuKQotIPCfjo7igIsgT3V0cHV0IGFzIFdBViBvciBNUDMKLSDimqHigIsgQXV0by1kZXRlY3RzIHRyaWFsIHZzIGZ1bGwgcGVyc29uYWwgdm9pY2VzCi0g8J+Tgu4AjyBDb25maWd1cmFibGUgdmlhIGAuZW52YCBmaWxlIG9yIENMSSBhcmd1bWVudHMKCiMjIFByZXJlcXVpc2l0ZXMKCjEuIEFuICoqQXp1cmUgU3BlZWNoIFNlcnZpY2UqKiByZXNvdXJjZSBpbiBhIFtzdXBwb3J0ZWQgcmVnaW9uXShodHRwczovL2xlYXJuLm1pY3Jvc29mdC5jb20vYXp1cmUvYWktc2VydmljZXMvc3BlZWNoLXNlcnZpY2UvcmVnaW9ucyNwZXJzb25hbC12b2ljZSkgKGUuZy4gYGVhc3R1c2AsIGB3ZXN0ZXVyb3BlYCwgYHNvdXRoZWFzdGFzaWFgKQoyLiBBICoqUGVyc29uYWwgVm9pY2UqKiBjcmVhdGVkIGVpdGhlcjoKICAgLSBWaWEgW1NwZWVjaCBTdHVkaW9dKGh0dHBzOi8vc3BlZWNoLm1pY3Jvc29mdC5jb20vcG9ydGFsL3BlcnNvbmFsdm9pY2UpICh0cmlhbCB2b2ljZSkKICAgLSBWaWEgdGhlIFtDdXN0b20gVm9pY2UgUkVTVCBBUEldKGh0dHBzOi8vbGVhcm4ubWljcm9zb2Z0LmNvbS9henVyZS9haS1zZXJ2aWNlcy9zcGVlY2gtc2VydmljZS9wZXJzb25hbC12b2ljZS1jcmVhdGUtdm9pY2UpIChmdWxsIHZvaWNlKQozLiAqKlB5dGhvbiAzLjgrKioKCiMjIFNldHVwCgojIyMgMS4gQ2xvbmUgdGhlIHJlcG9zaXRvcnkKCmBgYGJhc2gKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9pc2FiZWxjYWJlemFzbS90dHMtcGVyc29uYWwtdm9pY2UuZ2l0CmNkIHR0cy1wZXJzb25hbC12b2ljZQpgYGAKCiMjIyAyLiBJbnN0YWxsIGRlcGVuZGVuY2llcwoKYGBgYmFzaApwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CmBgYAoKIyMjIDMuIENvbmZpZ3VyZQoKQ29weSB0aGUgdGVtcGxhdGUgYW5kIGZpbGwgaW4geW91ciB2YWx1ZXM6CgpgYGBiYXNoCmNwIHRlbXAuZW52IC5lbnYKYGBgCgpFZGl0IGAuZW52YCB3aXRoIHlvdXIgQXp1cmUgY3JlZGVudGlhbHM6CgpgYGB0ZXh0ClNQRUVDSF9LRVk9eW91cl9zcGVlY2hfc3Vic2NyaXB0aW9uX2tleQpTUEVFQ0hfUkVHSU9OPWVhc3R1cwpTUEVBS0VSX1BST0ZJTEVfSUQ9eW91cl9zcGVha2VyX3Byb2ZpbGVfaWQKU1BFRUNIX0xBTkdVQUdFPWVuLVVTClNQRUVDSF9TVFlMRT1DaGVlcmZ1bApPVVRQVVRfRk9STUFUPW1wMwpPVVRQVVRfRklMRU5BTUU9b3V0cHV0CmBgYAoKPiBTZWUgYHRlbXAuZW52YCBmb3IgZGV0YWlsZWQgY29tbWVudHMgb24gZWFjaCBzZXR0aW5nLgoKIyMgVXNhZ2UKCiMjIyBCYXNpYwoKV3JpdGUgeW91ciB0ZXh0IGluIGBpbnB1dC5tZGAsIHRoZW4gcnVuOgoKYGBgYmFzaApweXRob24gc3ludGhlc2l6ZS5weQpgYGAKCiMjIyBDdXN0b20gaW5wdXQgZmlsZQoKYGBgYmFzaApweXRob24gc3ludGhlc2l6ZS5weSBteV9zY3JpcHQubWQKYGBgCgojIyMgQ3VzdG9tIG91dHB1dCBuYW1lCgpgYGBiYXNoCnB5dGhvbiBzeW50aGVzaXplLnB5IC1vIG15X3JlY29yZGluZwpgYGAKCiMjIyBCb3RoCgpgYGBiYXNoCnB5dGhvbiBzeW50aGVzaXplLnB5IHByZXNlbnRhdGlvbi5tZCAtbyBkZW1vCmBgYAoKIyMgU3BlZWNoIFN0eWxlcwoKU2V0IGBTUEVFQ0hfU1RZTEVgIGluIHlvdXIgYC5lbnZgIGZpbGUgdG8gY29udHJvbCB0aGUgdG9uZToKCnwgU3R5bGUgICAgICAgICAgIHwgRGVzY3JpcHRpb24gICAgICAgICAgICAgICAgICAgICAgICB8IFByb3NvZHkgQm9vc3QgICAgICAgIHwKfC0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwKfCBgQ2hlZXJmdWxgICAgICAgfCBVcGJlYXQgYW5kIHBvc2l0aXZlICAgICAgICAgICAgICAgIHwgKzglIHJhdGUsICs1JSBwaXRjaCAgIHwKfCBgRXhjaXRlZGAgICAgICAgfCBIaWdoIGVuZXJneSwgZW50aHVzaWFzdGljICAgICAgICAgIHwgKzEyJSByYXRlLCArOCUgcGl0Y2ggfAp8IGBFbnRodXNpYXN0aWNgICB8IEVhZ2VyIGFuZCBlbmdhZ2VkICAgICAgICAgICAgICAgICAgfCArMTAlIHJhdGUsICs2JSBwaXRjaCB8CnwgYEZyaWVuZGx5YCAgICAgIHwgV2FybSBhbmQgYXBwcm9hY2hhYmxlICAgICAgICAgICAgIHwgKzUlIHJhdGUsICszJSBwaXRjaCAgfAp8IGBQcm9tcHRgICAgICAgICB8IE5ldXRyYWwgKG5vIGFkanVzdG1lbnRzKSAgICAgICAgICAgfCBOb25lICAgICAgICAgICAgICAgICAgfAoKIyMgUHJvamVjdCBTdHJ1Y3R1cmUKCmBgYArilJzilIAgc3ludGhlc2l6ZS5weSAgICAgICMgTWFpbiBzY3JpcHQK4pSc4pSAIGlucHV0Lm1kICAgICAgICAgICAjIFlvdXIgdGV4dCB0byBzeW50aGVzaXplCuKUnOKUgCB0ZW1wLmVudiAgICAgICAgICAgIyBDb25maWd1cmF0aW9uIHRlbXBsYXRlCuKUnOKUgCByZXF1aXJlbWVudHMudHh0ICAgIyBQeXRob24gZGVwZW5kZW5jaWVzCuKUnOKUgCAuZ2l0aWdub3JlICAgICAgICAgIyBFeGNsdWRlcyAuZW52IGFuZCBhdWRpbyBmaWxlcwrilJTilIAgLmVudiAgICAgICAgICAgICAgICAjIFlvdXIgY29uZmlnIChub3QgdHJhY2tlZCBieSBnaXQpCmBgYAoKIyMgSG93IEl0IFdvcmtzCgoxLiBSZWFkcyBhIE1hcmtkb3duIGZpbGUgYW5kIHN0cmlwcyBmb3JtYXR0aW5nIChoZWFkaW5ncywgYm9sZCwgbGlua3MsIGNvZGUgYmxvY2tzLCBldGMuKQoyLiBBdXRvLWRldGVjdHMgd2hldGhlciB5b3VyIFNwZWFrZXIgUHJvZmlsZSBJRCBiZWxvbmdzIHRvIGEgKip0cmlhbCoqIG9yICoqZnVsbCoqIHBlcnNvbmFsIHZvaWNlCjMuIEJ1aWxkcyBTU01MIHdpdGggdGhlIGBEcmFnb25MYXRlc3ROZXVyYWxgIHZvaWNlLCB5b3VyIHNwZWFrZXIgcHJvZmlsZSwgc3R5bGUsIGFuZCBwcm9zb2R5IHNldHRpbmdzCjQuIFN5bnRoZXNpemVzIGF1ZGlvIHZpYSB0aGUgW0F6dXJlIFNwZWVjaCBTREtdKGh0dHBzOi8vcHlwaS5vcmcvcHJvamVjdC9henVyZS1jb2duaXRpdmVzZXJ2aWNlcy1zcGVlY2gvKSAoZnVsbCB2b2ljZXMpIG9yIHRoZSB0cmlhbCBSRVNUIEFQSSAodHJpYWwgdm9pY2VzKQo1LiBTYXZlcyB0aGUgcmVzdWx0IGFzIGEgV0FWIG9yIE1QMyBmaWxlCgojIyBGaW5kaW5nIFlvdXIgU3BlYWtlciBQcm9maWxlIElECgojIyMgRm9yIGZ1bGwgdm9pY2VzIChjcmVhdGVkIHZpYSBSRVNUIEFQSSkKClRoZSBgc3BlYWtlclByb2ZpbGVJZGAgaXMgcmV0dXJuZWQgd2hlbiB5b3UgY3JlYXRlIHRoZSBwZXJzb25hbCB2b2ljZS4gWW91IGNhbiBhbHNvIHF1ZXJ5IGl0OgoKYGBgYmFzaApjdXJsIC1YICJHRVQJCJ0kIlwKICAiaHR0cHM6Ly88cmVnaW9uPi5hcGkuY29nbml0aXZlLm1pY3Jvc29mdC5jb20vY3VzdG9tdm9pY2UvcGVyc29uYWx2b2ljZXMvP2FwaS12ZXJzaW9uPTIwMjQtMDItMDEtcHJldmlldyIgXAogIC1IICJPY3AtQXBpbS1TdWJzY3JpcHRpb24tS2V5OiA8eW91cl9rZXk+IgpgYGAKCiMjIyBGb3IgdHJpYWwgdm9pY2VzIChjcmVhdGVkIHZpYSBTcGVlY2ggU3R1ZGlvKQoKMS4gT3BlbiBbU3BlZWNoIFN0dWRpb10oaHR0cHM6Ly9zcGVlY2gubWljcm9zb2Z0LmNvbS9wb3J0YWwvcGVyc29uYWx2b2ljZSkgPiBQZXJzb25hbCBWb2ljZQoyLiBPcGVuIGJyb3dzZXIgRGV2IFRvb2xzIChGMTIpID4gTmV0d29yayB0YWIKMy4gUmVsb2FkIHRoZSBwYWdlCjQuIExvb2sgZm9yIHJlcXVlc3RzIHRvIGAvY3VzdG9tdm9pY2UvdHJpYWwvemVyb3Nob3RzL2AgYW5kIGNvcHkgdGhlIEdVSUQgZnJvbSB0aGUgVVJMCgo+IOKaoO+4jyAqKk5vdGU6KiogVHJpYWwgdm9pY2VzIGNhbiBvbmx5IHN5bnRoZXNpemUgcHJlZGVmaW5lZCBzY3JpcHRzLCBub3QgY3VzdG9tIHRleHQuIEZvciBjdXN0b20gdGV4dCBzeW50aGVzaXMsIGNyZWF0ZSBhIGZ1bGwgcGVyc29uYWwgdm9pY2UgdmlhIHRoZSBSRVNUIEFQSS4KCiMjIExpY2Vuc2UKCk1JVAo=
+# Personal Voice Text-to-Speech
+
+Python script that reads text from a Markdown file and generates audio using [Azure Personal Voice](https://learn.microsoft.com/azure/ai-services/speech-service/personal-voice-overview) TTS.
+
+## Features
+
+- Reads text from any Markdown file (strips formatting automatically)
+- Multiple speech styles: **Cheerful**, **Excited**, **Enthusiastic**, **Friendly**, and **Prompt** (neutral)
+- Multi-language support (en-US, es-ES, de-DE, fr-FR, ja-JP, etc.)
+- Output as WAV or MP3
+- Auto-detects trial vs full personal voices
+- Configurable via `.env` file or CLI arguments
+
+## Prerequisites
+
+1. An **Azure Speech Service** resource in a [supported region](https://learn.microsoft.com/azure/ai-services/speech-service/regions#personal-voice) (e.g. `eastus`, `westeurope`, `southeastasia`)
+2. A **Personal Voice** created either:
+   - Via [Speech Studio](https://speech.microsoft.com/portal/personalvoice) (trial voice)
+   - Via the [Custom Voice REST API](https://learn.microsoft.com/azure/ai-services/speech-service/personal-voice-create-voice) (full voice)
+3. **Python 3.8+**
+
+## Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/isabelcabezasm/tts-personal-voice.git
+cd tts-personal-voice
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Configure
+
+Copy the template and fill in your values:
+
+```bash
+cp temp.env .env
+```
+
+Edit `.env` with your Azure credentials:
+
+```text
+SPEECH_KEY=your_speech_subscription_key
+SPEECH_REGION=eastus
+SPEAKER_PROFILE_ID=your_speaker_profile_id
+SPEECH_LANGUAGE=en-US
+SPEECH_STYLE=Cheerful
+OUTPUT_FORMAT=mp3
+OUTPUT_FILENAME=output
+```
+
+> See `temp.env` for detailed comments on each setting.
+
+## Usage
+
+### Basic
+
+Write your text in `input.md`, then run:
+
+```bash
+python synthesize.py
+```
+
+### Custom input file
+
+```bash
+python synthesize.py my_script.md
+```
+
+### Custom output name
+
+```bash
+python synthesize.py -o my_recording
+```
+
+### Both
+
+```bash
+python synthesize.py presentation.md -o demo
+```
+
+## Speech Styles
+
+Set `SPEECH_STYLE` in your `.env` file to control the tone:
+
+| Style           | Description                        | Prosody Boost        |
+|-----------------|------------------------------------|----------------------|
+| `Cheerful`      | Upbeat and positive                | +8% rate, +5% pitch  |
+| `Excited`       | High energy, enthusiastic          | +12% rate, +8% pitch |
+| `Enthusiastic`  | Eager and engaged                  | +10% rate, +6% pitch |
+| `Friendly`      | Warm and approachable              | +5% rate, +3% pitch  |
+| `Prompt`        | Neutral (no adjustments)           | None                 |
+
+## Project Structure
+
+```
+├── synthesize.py      # Main script
+├── input.md           # Your text to synthesize
+├── temp.env           # Configuration template
+├── requirements.txt   # Python dependencies
+├── .gitignore         # Excludes .env and audio files
+└── .env               # Your config (not tracked by git)
+```
+
+## How It Works
+
+1. Reads a Markdown file and strips formatting (headings, bold, links, code blocks, etc.)
+2. Auto-detects whether your Speaker Profile ID belongs to a **trial** or **full** personal voice
+3. Builds SSML with the `DragonLatestNeural` voice, your speaker profile, style, and prosody settings
+4. Synthesizes audio via the [Azure Speech SDK](https://pypi.org/project/azure-cognitiveservices-speech/) (full voices) or the trial REST API (trial voices)
+5. Saves the result as a WAV or MP3 file
+
+## Finding Your Speaker Profile ID
+
+### For full voices (created via REST API)
+
+The `speakerProfileId` is returned when you create the personal voice. You can also query it:
+
+```bash
+curl -X GET \
+  "https://<region>.api.cognitive.microsoft.com/customvoice/personalvoices/?api-version=2024-02-01-preview" \
+  -H "Ocp-Apim-Subscription-Key: <your_key>"
+```
+
+### For trial voices (created via Speech Studio)
+
+1. Open [Speech Studio](https://speech.microsoft.com/portal/personalvoice) > Personal Voice
+2. Open browser Dev Tools (F12) > Network tab
+3. Reload the page
+4. Look for requests to `/customvoice/trial/zeroshots/` and copy the GUID from the URL
+
+> **Note:** Trial voices can only synthesize predefined scripts, not custom text. For custom text synthesis, create a full personal voice via the REST API.
+
+## License
+
+MIT
